@@ -1,0 +1,4 @@
+project: PROJECT
+target: string_escape_fuzzer
+cmds:
+- cmd: /out/string_escape_fuzzer
